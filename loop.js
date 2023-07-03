@@ -9,3 +9,6 @@ zxcvbnm
 
 
 //turning point
+a=[2,2,2]
+console.log(a)
+//2 changess in slave branch added
