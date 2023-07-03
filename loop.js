@@ -5,3 +5,7 @@ console.log(a[0])
 a[0]=1
 a[1]=55
 zxcvbnm
+
+
+
+//turning point
